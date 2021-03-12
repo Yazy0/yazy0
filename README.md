@@ -1,2 +1,14 @@
-🚀 Skills
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<h1 align='center'>
+  Ciao! sono Yazy
+ </h1>
+ 
+<p align='center'>
+    Sono Un programmatore dall'italia!    
+</p>
+<h1 align='center'>
+   💻Skills
+</h1>
+<p align='center'>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white  " />
+</p>
