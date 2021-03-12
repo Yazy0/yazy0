@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 <h1 align='center'>
-  Cosa uso per programmare
+  OS
 </h1>
 <p align='center'>
   <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'/>
