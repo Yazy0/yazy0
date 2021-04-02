@@ -25,7 +25,7 @@
 <h1 align="center">Stats</h1>
 <div>
   <a href="https://github.com/Yazydev/yazydev">
-    <img align="center" src="https://github-reame-stats.vercel.app/api/top-langs/?username=Yazydev&exclude_repo=dotfiles&show_icons=true&hide_border=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazydev&exclude_repo=dotfiles&show_icons=true&hide_border=true"/>
   </a>
   <a href="https://github.com/Yazydev/yazydev">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yazydev&show_icons=true&count_private=true&hide_border=true"/>
