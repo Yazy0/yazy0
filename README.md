@@ -3,7 +3,8 @@
  </h1>
  
 <p align='center'>
-    Sono Un programmatore dall'italia!    
+    Sono Un programmatore dall'italia!
+    P.s Sto ancora imparando c
 </p>
 <h1 align='center'>
    💻Skills
