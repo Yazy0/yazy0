@@ -8,7 +8,7 @@
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  <h1>Contact Me!</h1>
 <li> ✉Email : yazy@yazy-sex-with.me</li>
-<li> 🖇Website : yazydev.github.io</li>
+<a target="_blank" href="https://yazydev.github.io/"><li> 🖇Website : yazydev.github.io</li></a>
 <li> 📷 Instagram : @YazyPG</li>
 <h1>Github stuff</h1>
 <div>
