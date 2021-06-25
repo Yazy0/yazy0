@@ -14,9 +14,9 @@
 <li> 💻 Distro : Solus with i3wm</li>
 <h1>Github stuff</h1>
 <div>
-  <a href="https://github.com/yazydev/yazydev">
+  <a href="https://github.com/yazydev">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazydev&hide_border=true&theme=radical"/></a>
-<a href="https://github.com/yazydev/yazydev">
+<a href="https://github.com/yazydev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yazydev&theme=radical"/>
   </a>
 </div>
