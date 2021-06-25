@@ -17,6 +17,6 @@
   <a href="https://github.com/yazydev/yazydev">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazydev&hide_border=true&theme=radical"/></a>
 <a href="https://github.com/yazydev/yazydev">
-  <img align="center" src="https://github-readme-stats.yazydev.vercel.app/api?username=yazydev&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yazydev"/>
   </a>
 </div>
