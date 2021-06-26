@@ -11,7 +11,7 @@
 <li> ✉Email : yazy@yazy-sex-with.me</li>
 <a target="_blank" href="https://yazydev.github.io/"><li> 🖇Website : yazydev.github.io</li></a>
 <li> 📷 Instagram : @YazyPG</li>
-<li> 💻 Distro : Windows 10</li>
+<li> 💻 OS : Windows 10</li>
 <h1>Github stuff</h1>
 <div>
   <a href="https://github.com/yazydev">
