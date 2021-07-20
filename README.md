@@ -11,7 +11,7 @@
 <li> ✉Email : yazydev@gmail.com</li>
 <a target="_blank" href="https://yazydev.github.io/"><li> 🖇Website : yazydev.github.io</li></a>
 <li> 📷 Instagram : @YazyPG</li>
-<li> 💻 OS : Pop_os w i3wm</li>
+<li> 💻 OS : Arch Labs w i3wm</li>
 <h1>Github stuff</h1>
 <div>
   <a href="https://github.com/yazydev">
