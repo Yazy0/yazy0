@@ -4,12 +4,11 @@
  <p>I'm a Busy student from italy</p>
  
  <h1>Skills</h1>
- <div>
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center"  src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img aling="center" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
- </div>
+
  <h1>Contact Me!</h1>
 <li> ✉Email : yazydev@gmail.com</li>
 <a target="_blank" href="https://yazydev.github.io/"><li> 🖇Website : yazydev.github.io</li></a>
