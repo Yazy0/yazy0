@@ -1,13 +1,10 @@
 <h1>
-  Hi i'm yazy!
+  Hi i'm Yazy!
  </h1>
  <p>"Programmer" from italy and linux user :)</p>
  
  <h1>Skills</h1>
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center"  src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img aling="center" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <p>I usually code with node.js but i can make websites too (only front end i suck at back end D:)! I m currently learning rust</p>
 
  <h1>Contact Me!</h1>
 <li> ✉Email : yazygit@proton.me</li>
