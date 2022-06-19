@@ -1,7 +1,7 @@
 <h1>
   Hi i'm yazy!
  </h1>
- <p>I'm a Busy student from italy</p>
+ <p>"Programmer" from italy and linux user :)</p>
  
  <h1>Skills</h1>
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -10,10 +10,10 @@
   <img aling="center" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 
  <h1>Contact Me!</h1>
-<li> ✉Email : yazydev@gmail.com</li>
-<a target="_blank" href="https://yazydev.github.io/"><li> 🖇Website : yazydev.github.io</li></a>
+<li> ✉Email : yazygit@proton.me</li>
+<li> 🖇Website : Restyling in progress</li>
 <li> 📷 Instagram : @YazyPG</li>
-<li> 💻 OS : Arch Labs w i3wm</li>
+<li> 💻 OS : Currently on arch linux bspwm</li>
 <h1>Github stuff</h1>
 <div>
   <a href="https://github.com/yazydev">
