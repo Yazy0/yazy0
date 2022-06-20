@@ -13,9 +13,9 @@
 <li> 💻 OS : Currently on arch linux bspwm</li>
 <h1>Github stuff</h1>
 <div>
-  <a href="https://github.com/yazydev">
+  <a href="https://github.com/yazy0">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazydev&hide_border=true&theme=radical"/></a>
-<a href="https://github.com/yazydev">
+<a href="https://github.com/yazy0">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yazydev&theme=radical"/>
   </a>
 </div>
