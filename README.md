@@ -7,7 +7,7 @@
   <p>I usually code with node.js but i can make websites too (only front end i suck at back end D:)! I m currently learning rust</p>
 
  <h1>Contact Me!</h1>
-<li> ✉Email : yazygit@proton.me</li>
+<li> ✉Email : yazy@keemail.me</li>
 <li> 🖇Website : Restyling in progress</li>
 <li> 📷 Instagram : @YazyPG</li>
 <li> 💻 OS : Currently on arch linux bspwm</li>
