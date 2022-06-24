@@ -10,7 +10,7 @@
 <li> ✉Email : yazy@keemail.me</li>
 <li> 🖇Website : Restyling in progress</li>
 <li> 📷 Instagram : @YazyPG</li>
-<li> 💻 OS : Currently on arch linux bspwm</li>
+<li> 💻 OS : Currently on arch linux bspwm/xfce</li>
 <h1>Github stuff</h1>
 <div>
   <a href="https://github.com/yazy0">
