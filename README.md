@@ -8,7 +8,7 @@
 
  <h1>Contact Me!</h1>
 <li> ✉Email : yazy@keemail.me</li>
-<li> 🖇Website : Restyling in progress</li>
+<li> 🖇Website : <a href="https://yazy0.github.io">yazy0.github.io</a></li>
 <li> 📷 Instagram : @YazyPG</li>
 <li> 💻 OS : Currently on arch linux bspwm/xfce</li>
 <h1>Github stuff</h1>
